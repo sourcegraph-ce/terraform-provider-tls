@@ -2,7 +2,7 @@ package testutils
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net"
 	"net/http"
 
